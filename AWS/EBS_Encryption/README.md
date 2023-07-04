@@ -1,7 +1,7 @@
 
 <img src="../../images/icons/Tamnoon.png" width="200"/>
 
-# Tamnoon Automatically unencrypted EBS Volumes remediation.
+# Tamnoon Playbook - Automatically encrypt unencrypted EBS Volumes remediation.
 
 This playbook describes how to remediate unencrypted EBS Volumes automatically. 
 Amazon EBS encrypted volumes provide an additional layer of data protection by securing your data from unauthorized access to the underlying storage.
